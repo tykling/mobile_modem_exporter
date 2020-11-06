@@ -8,7 +8,7 @@ Until I get something better written here are the argparse usage instructions::
                                    [-s [SLEEP]] [-q] [-v]
                                    PROMPATH SERIALDEVICE [SERIALDEVICE ...]
 
-   mobile_modem_exporter version 0.1.0. Exports signal quality information
+   mobile_modem_exporter version 0.2.0-dev. Exports signal quality information
    for mobile modems. See the manpage or ReadTheDocs for more info.
 
    positional arguments:

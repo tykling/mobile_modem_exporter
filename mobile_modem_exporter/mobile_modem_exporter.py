@@ -1,4 +1,4 @@
-"""mobile_modem_exporter v0.1.0 module.
+"""mobile_modem_exporter v0.2.0-dev module.
 
 Source code available at https://github.com/tykling/mobile_modem_exporter/
 Can be installed from PyPi https://pypi.org/project/mobile_modem_exporter/
@@ -13,7 +13,7 @@ from pipeserial.pipeserial import PipeSerial  # type: ignore
 from prometheus_client import Info  # type: ignore
 from prometheus_client import CollectorRegistry, Gauge, write_to_textfile
 
-__version__ = "0.1.0"
+__version__ = "0.2.0-dev"
 logger = logging.getLogger("mobile_modem_exporter.%s" % __name__)
 
 

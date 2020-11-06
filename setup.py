@@ -12,7 +12,7 @@ with open("README.md", "r") as fh:
 
 setuptools.setup(
     name="mobile_modem_exporter",
-    version="0.1.0",
+    version="0.2.0-dev",
     author="Thomas Steen Rasmussen",
     author_email="thomas@gibfest.dk",
     description="mobile_modem_exporter is a Prometheus exporter for mobile modems. It uses pySerial and pexpect to speak to the modems and prometheus_client to write to node_exporter textfile_collector path.",
