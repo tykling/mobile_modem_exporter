@@ -1,0 +1,2 @@
+pipeserial==0.3.0
+prometheus-client==0.8.0
