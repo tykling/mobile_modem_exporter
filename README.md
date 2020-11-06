@@ -1,7 +1,7 @@
 # mobile_modem_exporter
 Prometheus exporter for mobile modems (LTE/GSM) written in Python
 
-[![Build Status](https://travis-ci.com/github/tykling/mobile_modem_exporter.svg?branch=master)](https://travis-ci.com/github/tykling/mobile_modem_exporter)
+[![Build Status](https://api.travis-ci.com/tykling/mobile_modem_exporter.svg?branch=main)](https://travis-ci.com/github/tykling/mobile_modem_exporter)
 [![codecov](https://codecov.io/gh/tykling/mobile_modem_exporter/branch/master/graph/badge.svg)](https://codecov.io/gh/tykling/mobile_modem_exporter)
 [![Language grade: Python](https://img.shields.io/lgtm/grade/python/g/tykling/mobile_modem_exporter.svg?logo=lgtm&logoWidth=18)](https://lgtm.com/projects/g/tykling/mobile_modem_exporter/context:python)
 [![Checked with mypy](docs/badges/mypy_badge.svg)](http://mypy-lang.org/)
